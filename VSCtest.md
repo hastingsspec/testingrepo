@@ -1,0 +1,1 @@
+Testing whether I can create a file directly in VSC, save it to the github folder, and then move it to remote. 
